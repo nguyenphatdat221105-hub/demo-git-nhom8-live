@@ -1,1 +1,1 @@
-Phien ban 1.5 - Cap nhat boi Thanh vien A
+Phien ban 2.0 - Ket hop cap nhat cua Thanh vien A va B
